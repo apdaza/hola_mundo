@@ -1,1 +1,5 @@
-# hola_mundo
+# hola mundo
+
+Ejemplo de manejo básico de git
+
+Alejandro Daza
